@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kaiser_Library_Management_System.About" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.AdminHomePage" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAIAAAEBBAAAAAAAIAAAA=</HashCode>
+      <FileName>AdminHomePage.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.Author" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAEIAAAAAAAAAAAQAQIAAAEBBARIAAAAKAEAI=</HashCode>
+      <FileName>Author.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.Book" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAEgIAEQAgAAYAAAAAgAwQIAAEEBBEAIECAAIEEAY=</HashCode>
+      <FileName>Book.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.Book_Author_Info" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAIAAAAAIAAAA=</HashCode>
+      <FileName>BookAuthorInfo.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmIssueBook" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIGAAAYQCIBEAAIABCAAAQAAJAAQEBhAAAAAABIAAAI=</HashCode>
+      <FileName>Borrow.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmChangePassword" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAgAAAgQgAIIAEUABAAAAAAAIACgA=</HashCode>
+      <FileName>ChangePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmContact" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmLogin" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAQIKAAAAEAAQAAIAAQABAgAgCAAgICAAI=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.Global" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.HomePage" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAQIAAIAAAEBBAAAAAAAIAAAA=</HashCode>
+      <FileName>HomePage.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.Librarianlist" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAIAAAEAAAAAAAAAoAAAA=</HashCode>
+      <FileName>Librarianlist.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmLogin1" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAEAEAAAAAAAAAAIAAACBAAAAAAAALAAgA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmMember" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QMAAAAIAAIAAAAABAAAAAQAAIAAAkRBgAAAAARJAAAA=</HashCode>
+      <FileName>Member.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.MemberInfoaspx" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAIAAACAAACAAAQAAIAAAEABgAACAAAICAAI=</HashCode>
+      <FileName>MemberInfo.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.okay" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAQAAAAAAAAAAAAAIAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>okay.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmRegister" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAkAEAACAAAgAAAIAAEAIAABBAAEAogAkE=</HashCode>
+      <FileName>Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.ReturnBook" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAQAAAAAIAAAAAJAAFBAQEEIAAAEBBgAwEAEgYAAAI=</HashCode>
+      <FileName>ReturnBook.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.frmSupplier" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAMAAAIAAAAAAAAAAIAAAEBBAAAAAAAIIAAA=</HashCode>
+      <FileName>Supplier.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kaiser_Library_Management_System.tester" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAgQIAAQUAAAAIAAAAIAAAA=</HashCode>
+      <FileName>tester.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
